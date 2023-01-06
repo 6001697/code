@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{B718A3C5-BFEE-405D-89D3-02ED830CDC18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程的学习", "线程的学习\线程的学习.csproj", "{0148D84D-CC8C-4559-84E5-F11CAC72DE5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程的邮箱及", "线程的邮箱及\线程的邮箱及.csproj", "{BAECB2B0-CB75-4F22-AAE4-BA8B69C41611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{5C2B136D-7B73-4995-8AB7-259879AA9A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "流", "流\流.csproj", "{FA5B9574-8147-4067-8DE7-8E861457C59C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcp服务器", "tcp服务器\tcp服务器.csproj", "{BC4B4D1A-4896-4692-A2F4-B811E7BC8745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcp客户端", "tcp客户端\tcp客户端.csproj", "{922EAA7B-ABC1-4A01-A947-B4CA91A0C188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B718A3C5-BFEE-405D-89D3-02ED830CDC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B718A3C5-BFEE-405D-89D3-02ED830CDC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B718A3C5-BFEE-405D-89D3-02ED830CDC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B718A3C5-BFEE-405D-89D3-02ED830CDC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0148D84D-CC8C-4559-84E5-F11CAC72DE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0148D84D-CC8C-4559-84E5-F11CAC72DE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0148D84D-CC8C-4559-84E5-F11CAC72DE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0148D84D-CC8C-4559-84E5-F11CAC72DE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAECB2B0-CB75-4F22-AAE4-BA8B69C41611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAECB2B0-CB75-4F22-AAE4-BA8B69C41611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAECB2B0-CB75-4F22-AAE4-BA8B69C41611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAECB2B0-CB75-4F22-AAE4-BA8B69C41611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2B136D-7B73-4995-8AB7-259879AA9A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2B136D-7B73-4995-8AB7-259879AA9A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2B136D-7B73-4995-8AB7-259879AA9A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2B136D-7B73-4995-8AB7-259879AA9A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5B9574-8147-4067-8DE7-8E861457C59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5B9574-8147-4067-8DE7-8E861457C59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5B9574-8147-4067-8DE7-8E861457C59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5B9574-8147-4067-8DE7-8E861457C59C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4B4D1A-4896-4692-A2F4-B811E7BC8745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4B4D1A-4896-4692-A2F4-B811E7BC8745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4B4D1A-4896-4692-A2F4-B811E7BC8745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4B4D1A-4896-4692-A2F4-B811E7BC8745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922EAA7B-ABC1-4A01-A947-B4CA91A0C188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922EAA7B-ABC1-4A01-A947-B4CA91A0C188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922EAA7B-ABC1-4A01-A947-B4CA91A0C188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922EAA7B-ABC1-4A01-A947-B4CA91A0C188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C88C683-E2E1-46A9-8E3A-1D329215C335}
+	EndGlobalSection
+EndGlobal

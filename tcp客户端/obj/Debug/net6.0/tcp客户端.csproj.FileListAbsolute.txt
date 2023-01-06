@@ -1,0 +1,16 @@
+D:\c#学习\code\高级学习\tcp客户端\bin\Debug\net6.0\tcp客户端.exe
+D:\c#学习\code\高级学习\tcp客户端\bin\Debug\net6.0\tcp客户端.deps.json
+D:\c#学习\code\高级学习\tcp客户端\bin\Debug\net6.0\tcp客户端.runtimeconfig.json
+D:\c#学习\code\高级学习\tcp客户端\bin\Debug\net6.0\tcp客户端.dll
+D:\c#学习\code\高级学习\tcp客户端\bin\Debug\net6.0\tcp客户端.pdb
+D:\c#学习\code\高级学习\tcp客户端\obj\Debug\net6.0\tcp客户端.csproj.AssemblyReference.cache
+D:\c#学习\code\高级学习\tcp客户端\obj\Debug\net6.0\tcp客户端.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#学习\code\高级学习\tcp客户端\obj\Debug\net6.0\tcp客户端.AssemblyInfoInputs.cache
+D:\c#学习\code\高级学习\tcp客户端\obj\Debug\net6.0\tcp客户端.AssemblyInfo.cs
+D:\c#学习\code\高级学习\tcp客户端\obj\Debug\net6.0\tcp客户端.csproj.CoreCompileInputs.cache
+D:\c#学习\code\高级学习\tcp客户端\obj\Debug\net6.0\tcp客户端.dll
+D:\c#学习\code\高级学习\tcp客户端\obj\Debug\net6.0\refint\tcp客户端.dll
+D:\c#学习\code\高级学习\tcp客户端\obj\Debug\net6.0\tcp客户端.pdb
+D:\c#学习\code\高级学习\tcp客户端\obj\Debug\net6.0\tcp客户端.genruntimeconfig.cache
+D:\c#学习\code\高级学习\tcp客户端\obj\Debug\net6.0\ref\tcp客户端.dll
+D:\c#学习\code\高级学习\tcp客户端\bin\Debug\net6.0\tcp客户端.runtimeconfig.dev.json

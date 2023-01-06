@@ -1,0 +1,7 @@
+D:\c#学习\code\高级学习\线程的学习\bin\Debug\线程的学习.exe.config
+D:\c#学习\code\高级学习\线程的学习\bin\Debug\线程的学习.exe
+D:\c#学习\code\高级学习\线程的学习\bin\Debug\线程的学习.pdb
+D:\c#学习\code\高级学习\线程的学习\obj\Debug\线程的学习.csprojAssemblyReference.cache
+D:\c#学习\code\高级学习\线程的学习\obj\Debug\线程的学习.csproj.CoreCompileInputs.cache
+D:\c#学习\code\高级学习\线程的学习\obj\Debug\线程的学习.exe
+D:\c#学习\code\高级学习\线程的学习\obj\Debug\线程的学习.pdb

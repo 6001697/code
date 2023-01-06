@@ -1,0 +1,7 @@
+D:\c#学习\code\高级学习\tcp服务器\bin\Debug\tcp服务器.exe.config
+D:\c#学习\code\高级学习\tcp服务器\bin\Debug\tcp服务器.exe
+D:\c#学习\code\高级学习\tcp服务器\bin\Debug\tcp服务器.pdb
+D:\c#学习\code\高级学习\tcp服务器\obj\Debug\tcp服务器.csprojAssemblyReference.cache
+D:\c#学习\code\高级学习\tcp服务器\obj\Debug\tcp服务器.csproj.CoreCompileInputs.cache
+D:\c#学习\code\高级学习\tcp服务器\obj\Debug\tcp服务器.exe
+D:\c#学习\code\高级学习\tcp服务器\obj\Debug\tcp服务器.pdb

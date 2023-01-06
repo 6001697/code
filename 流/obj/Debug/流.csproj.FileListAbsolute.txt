@@ -1,0 +1,6 @@
+D:\c#学习\code\高级学习\流\bin\Debug\流.exe.config
+D:\c#学习\code\高级学习\流\bin\Debug\流.exe
+D:\c#学习\code\高级学习\流\bin\Debug\流.pdb
+D:\c#学习\code\高级学习\流\obj\Debug\流.csproj.CoreCompileInputs.cache
+D:\c#学习\code\高级学习\流\obj\Debug\流.exe
+D:\c#学习\code\高级学习\流\obj\Debug\流.pdb
